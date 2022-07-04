@@ -2,6 +2,7 @@
 
 #### By Todd Pangilinan
 
+#### WORK IN PROGRESS (personal exploration)
 a simple Ruby-based blog site.
 
 ## Technologies used:
